@@ -12,6 +12,8 @@ Please either choose Encryption or Decryption.
 
 If you choose to Encryption.
 
+E.g. original file: 28103.pdf ;  key file: Desert.jpg
+
 1.input original file on Source File TextBox.
 
 2.input key file on Pack File TextBox.
@@ -29,6 +31,8 @@ If you choose to Encryption.
 
 
 If you choose to Decryption.
+
+E.g. fake file: Encrtpted.jpg ; key file: Desert.jpg ; decrypted file: Desert_unpackFile.pdf
 
 1.input fake file on Fake File TextBox.
 
