@@ -1,7 +1,9 @@
 # FakeFile_Encryption
 A simple and Easy Encryption Policy
 
-Requirements: This software was written using Visual Studio 2017 for Windows desktop building for the .NET Framework v4.5.1.
+Requirements: 
+
+This software was written using Visual Studio 2017 for Windows desktop building for the .NET Framework v4.5.1.
 
 How to execute FakeFile_Encryption ?
 
@@ -20,6 +22,8 @@ If you choose to Encryption.
 
 5.confirm.
 
+6.Create a fake file( original file is encrypted)
+
 ![image](https://github.com/Ming-Shu/FakeFile_Encryption/blob/master/Encryption.PNG)
 ![image](https://github.com/Ming-Shu/FakeFile_Encryption/blob/master/Encryption_Complete.PNG)
 
@@ -35,6 +39,8 @@ If you choose to Decryption.
 4.press stat button.
 
 5.confirm.
+
+6.unpackFile(fake file is decrypted)
 
 ![image](https://github.com/Ming-Shu/FakeFile_Encryption/blob/master/Decryption.PNG)
 ![image](https://github.com/Ming-Shu/FakeFile_Encryption/blob/master/Decryption_Complete.PNG)
